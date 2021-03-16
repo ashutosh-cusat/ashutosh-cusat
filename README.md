@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Ashutosh Kumar
 
 
-- 🔭 I’m currently working on  Improving my problem solving skills, DSA.
-- 🌱 I’m currently learning Javascript.
-- 💬 Ask me about <b>Web development,Sql,Database<b>
+- 🔭 I’m currently working on  <b>Improving my problem solving skills, DSA.<b>
+- 🌱 I’m currently learning <b>Javascript.<b>
+- 💬 Ask me about <b>Web development,Sql,Database.<b>
 - 😄 Pronouns: He/His.
 

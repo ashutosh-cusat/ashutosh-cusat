@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ashutosh-kumar-b888b219a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/ashutosh-kumar-b888b219a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-b888b219a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ashutosh-kumar-b888b219a/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ashutosh24092000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/ashutosh24092000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-cusat&show_icons=true&locale=en&layout=compact" alt="ashutosh-cusat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-cusat&show_icons=true&locale=en" alt="ashutosh-cusat" /></p>
-
-

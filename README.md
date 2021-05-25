@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Improving my problem solving skills, DSA.**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Web development,Sql,Database.**
+- 💬 Ask me about **c++,java,frontend,Sql,Database.**
 
 - 📫 How to reach me **ashutosh24092000@gmail.com**
 

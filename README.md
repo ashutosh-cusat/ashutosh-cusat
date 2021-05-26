@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my problem solving skills, DSA.**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend-developer.**
 
 - 💬 Ask me about **c++,java,frontend,Sql,Database.**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">web developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Improving my problem solving skills, DSA.**
 
